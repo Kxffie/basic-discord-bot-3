@@ -4,7 +4,7 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Continuing with embeds, this shows you how to use the Reddit API (well, [meme api](https://meme-api.herokuapp.com/gimme)) to get post data from 3 subreddits (dankmemes, memes, and me_irl)
+Continuing with embeds, this shows you how to use the Reddit API (well, [meme api](https://meme-api.herokuapp.com/gimme)) to get post data from 3 subreddits (dankmemes, memes, and me_irl) to create embeds like Dank Memer. 
 
 ## Editing
 
